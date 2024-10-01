@@ -1,7 +1,14 @@
 /*
 Description: We are to produce the same code but this time integrating functions.
+
+
+
 */
+
 #include <stdio.h>
+
+//
+
 int main()
 {
 int   inch;
